@@ -1,0 +1,2 @@
+# QgisMinToolbar
+Qgis Minimalistic Toolbar
